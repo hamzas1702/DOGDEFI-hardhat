@@ -11,3 +11,7 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
+
+
+LockModule#Lock - 0x093D305366218D6d09bA10448922F10814b031dd
+TokenFactory deployed to (target): 0x093D305366218D6d09bA10448922F10814b031dd
