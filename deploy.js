@@ -12,7 +12,6 @@ async function main() {
 
     // Output the deployed contract address
     console.log("TokenFactory deployed to (target):", tokenFactory.target);
-    console.log("TokenFactory deployed to (address):", tokenFactory.address);
 }
 
 main()
